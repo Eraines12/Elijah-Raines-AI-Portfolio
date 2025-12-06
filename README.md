@@ -1,2 +1,2 @@
-# L04-Chihuahua-or-Muffin
+# Elijah-Raines-AI-Portfolio
 Applied AI Portfolio - Houston Community College
