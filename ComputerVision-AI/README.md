@@ -1,84 +1,85 @@
-Computer Vision – ITAI 1378
+# Computer Vision – ITAI 1378
 
-This repository contains all labs, assignments, and presentations completed for my Computer Vision coursework in the Applied AI & Robotics program at Houston Community College.
+This repository contains all labs, assignments, and presentations completed for my **Computer Vision coursework** in the Applied AI & Robotics program at Houston Community College.
 
 Each lab includes:
 
-A Jupyter Notebook (.ipynb)
+* A Jupyter Notebook (`.ipynb`)
+* Documentation explaining the purpose and results
+* Visual outputs where applicable
 
-Documentation explaining the purpose and results
+---
 
-Visual outputs where applicable
+## 📁 Project Folders (Clickable Lab Links)
 
-📁 Project Folders (Clickable Lab Links)
-Lab 02 – Intro to Image Processing
+### **Lab 02 – Intro to Image Processing**
 
-Open Lab 02
+[Open Lab 02](Labs/L02_Raines_Elijah_ITAI1378.ipynb)
 
-Lab 03 – Image Filtering & Convolution
+### **Lab 03 – Image Filtering & Convolution**
 
-Open Lab 03
+[Open Lab 03](Labs/L03_A_ElijahRaines_ITAI1378.ipynb)
 
-Lab 04 – Chihuahua or Muffin
+### **Lab 04 – Chihuahua or Muffin**
 
-Open Lab 04
+[Open Lab 04](Labs/L04%20Chihuahua%20or%20Muffin.ipynb)
 
-Lab 05 – CNN Chihuahua vs Muffin
+### **Lab 05 – CNN Chihuahua vs Muffin**
 
-Open Lab 05
+[Open Lab 05](Labs/Lab05_CNN_Chihuahua_Muffin.ipynb)
 
-Lab 06 – VOC2007 Object Detection
+### **Lab 06 – VOC2007 Object Detection**
 
-Open Lab 06
+[Open Lab 06](Labs/Lab06_VOC2007_Object_Detection.ipynb)
 
-Lab 08 – CNN Classification
+### **Lab 08 – CNN Classification**
 
-Open Lab 08
+[Open Lab 08](Labs/Lab_08_Raines_Elijah_ITAI1378.ipynb)
 
-📝 Assignments
+---
 
-The /Assignments folder contains written work and documentation explaining concepts and responses tied to course activities.
+## 📝 Assignments
 
-🎨 Presentations
+The `/Assignments` folder contains written work and documentation explaining concepts and responses tied to course activities.
 
-The /Presentations folder includes slides from major visual projects:
+---
 
-FridgeVision – Smart Inventory Detection System
+## 🎨 Presentations
 
-Royal Banquet – Image Format Explanation
+The `/Presentations` folder includes slides from major visual projects:
 
-🧠 Skills Demonstrated
+* **FridgeVision – Smart Inventory Detection System**
+* **Royal Banquet – Image Format Explanation**
 
-Image Processing Fundamentals
+---
 
-Convolutional Neural Networks (CNNs)
+## 🧠 Skills Demonstrated
 
-Binary & Multi-Class Classification
+* Image Processing Fundamentals
+* Convolutional Neural Networks (CNNs)
+* Binary & Multi-Class Classification
+* Object Detection (VOC2007)
+* Transfer Learning
+* Data Loading & Preprocessing
+* Visualization & Model Evaluation (accuracy, loss, confusion matrix)
 
-Object Detection (VOC2007)
+---
 
-Transfer Learning
+## 🛠 Tools Used
 
-Data Loading & Preprocessing
+* **Python**
+* **OpenCV**
+* **NumPy / Pandas**
+* **Matplotlib**
+* **TensorFlow / Keras**
+* **Jupyter Notebook / Google Colab**
 
-Visualization & Model Evaluation (accuracy, loss, confusion matrix)
+---
 
-🛠 Tools Used
-
-Python
-
-OpenCV
-
-NumPy / Pandas
-
-Matplotlib
-
-TensorFlow / Keras
-
-Jupyter Notebook / Google Colab
-
-📫 Contact
+## 📫 Contact
 
 For more AI projects, visit my main portfolio:
-GitHub: https://github.com/Eraines12
+**GitHub:** [https://github.com/Eraines12](https://github.com/Eraines12)
+
+---
 
