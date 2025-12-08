@@ -12,23 +12,25 @@ Each lab includes:
 
 ## 📁 Project Folders (Clickable Lab Links)
 
-### **Lab 02 – Intro to Image Processing**
-[Open Lab 02](ComputerVision-AI/Labs/L02_Raines_Elijah_ITAI1378%20(1).ipynb)
+## 📁 Computer Vision Labs
 
-### **Lab 03 – Image Filtering & Convolution**
-[Open Lab 03](ComputerVision-AI/Labs/L03_A_ElijahRaines_ITAI_1378%20(1).ipynb)
+### Lab 02 – Intro to Image Processing  
+[Open Lab 02](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L02_Raines_Elijah_ITAI1378%20(1).ipynb)
 
-### **Lab 04 – Chihuahua or Muffin**
-[Open Lab 04](ComputerVision-AI/Labs/L04%20Chihuahua%20or%20Muffin.ipynb)
+### Lab 03 – Image Filtering & Convolution  
+[Open Lab 03](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L03_A_ElijahRaines_ITAI_1378%20(1).ipynb)
 
-### **Lab 05 – CNN Chihuahua vs Muffin**
-[Open Lab 05](ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb)
+### Lab 04 – Chihuahua or Muffin  
+[Open Lab 04](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L04%20Chihuahua%20or%20Muffin.ipynb)
 
-### **Lab 06 – VOC2007 Object Detection**
-[Open Lab 06](ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb)
+### Lab 05 – CNN Chihuahua vs Muffin  
+[Open Lab 05](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb)
 
-### **Lab 08 – CNN Classification**
-[Open Lab 08](ComputerVision-AI/Labs/Lab_08_Raines_Elijah_ITAI1378%20(1).ipynb)
+### Lab 06 – VOC2007 Object Detection  
+[Open Lab 06](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb)
+
+### Lab 08 – CNN Classification  
+[Open Lab 08](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab_08_Raines_Elijah_ITAI1378%20(1).ipynb)
 
 ---
 
