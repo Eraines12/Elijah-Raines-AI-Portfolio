@@ -36,9 +36,6 @@ Each lab includes:
 
 ## 📝 Assignments
 
-### **L00 – Colab & Tools Practice Run**
-(No file submitted or link not provided)
-
 ### **L01 – Exploring Real-World Applications of Computer Vision**
 [Open Assignment L01](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Assignments/_L01_Elijah_Raines_ITAI1378%20(1).docx)
 
