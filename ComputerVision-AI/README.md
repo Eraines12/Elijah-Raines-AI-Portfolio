@@ -13,28 +13,22 @@ Each lab includes:
 ## 📁 Project Folders (Clickable Lab Links)
 
 ### **Lab 02 – Intro to Image Processing**
-
-[Open Lab 02](Labs/L02_Raines_Elijah_ITAI1378.ipynb)
+[Open Lab 02](ComputerVision-AI/Labs/L02_Raines_Elijah_ITAI1378%20(1).ipynb)
 
 ### **Lab 03 – Image Filtering & Convolution**
-
-[Open Lab 03](Labs/L03_A_ElijahRaines_ITAI1378.ipynb)
+[Open Lab 03](ComputerVision-AI/Labs/L03_A_ElijahRaines_ITAI_1378%20(1).ipynb)
 
 ### **Lab 04 – Chihuahua or Muffin**
-
-[Open Lab 04](Labs/L04%20Chihuahua%20or%20Muffin.ipynb)
+[Open Lab 04](ComputerVision-AI/Labs/L04%20Chihuahua%20or%20Muffin.ipynb)
 
 ### **Lab 05 – CNN Chihuahua vs Muffin**
-
-[Open Lab 05](Labs/Lab05_CNN_Chihuahua_Muffin.ipynb)
+[Open Lab 05](ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb)
 
 ### **Lab 06 – VOC2007 Object Detection**
-
-[Open Lab 06](Labs/Lab06_VOC2007_Object_Detection.ipynb)
+[Open Lab 06](ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb)
 
 ### **Lab 08 – CNN Classification**
-
-[Open Lab 08](Labs/Lab_08_Raines_Elijah_ITAI1378.ipynb)
+[Open Lab 08](ComputerVision-AI/Labs/Lab_08_Raines_Elijah_ITAI1378%20(1).ipynb)
 
 ---
 
