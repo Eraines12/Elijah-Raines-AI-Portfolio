@@ -34,5 +34,5 @@ This lab introduces the fundamentals of Machine Learning, including the overall 
 - Jupyter Notebook  
 - Python  
 
-[Open Lab 01 Notebook](PUT-LINK-HERE)
+[Open Lab 01 Notebook](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/tree/main/MachineLearning-AI/labs/Lab01_ML_Workflow_TypesOfLearning)
 
