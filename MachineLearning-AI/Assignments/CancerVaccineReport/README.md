@@ -25,5 +25,5 @@ Machine learning and data analytics significantly improve:
 - Personalized treatment development  
 
 ## 📄 File Link
-[Open Cancer Vaccine Report](PUT-LINK-HERE)
+[Open Cancer Vaccine Report](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/Assignments/CancerVaccineReport/Cancer%20Vaccine%20Report%20.docx)
 
