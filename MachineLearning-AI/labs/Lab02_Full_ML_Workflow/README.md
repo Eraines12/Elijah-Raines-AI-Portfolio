@@ -44,5 +44,5 @@ Logged results and compared which model performed best on this dataset.
 - Matplotlib  
 
 
-[Open Lab 02 Notebook](PUT-L)
+[Open Lab 02 Notebook](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/labs/Lab02_Full_ML_Workflow/Lab02_Full_ML_Workflow.ipynb)
 
