@@ -1,31 +1,59 @@
 # Google Colab – Exploratory Data Analysis (EDA)
 
-## 📘 Assignment Overview
-This assignment focuses on performing Exploratory Data Analysis (EDA) using **Google Colab**, a cloud-based Jupyter Notebook environment. The goal was to learn how to load, explore, visualize, and interpret real-world datasets using Python data science tools.
+# Cancer Vaccine Report  
+### Machine Learning – ITAI 1371  
+### Elijah Raines
 
-## 🔍 Key Tasks Completed
-- Imported datasets into Google Colab  
-- Explored numerical and categorical features  
-- Created visualizations including:
-  - Histograms
-  - Pair plots
-  - Scatter plots
-  - Boxplots
-- Identified correlations, trends, and distributions  
-- Detected missing values and outliers  
+## 📘 Overview
+This assignment explored how machine learning concepts relate to the development of Russia’s mRNA cancer vaccine. The focus was on understanding how data, modeling, and experimentation contribute to vaccine research and how this differs from the U.S. approach.  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+## 🔍 Key Ideas from the Report
+
+### **1. Data Used in Vaccine Development**
+You explained that Russia likely trained the vaccine using:
+- Medical data from living and deceased patients  
+- Patient factors such as age, weight, and cancer type  
+- Long-term observation of tumor mutations  
+:contentReference[oaicite:2]{index=2}
+
+This reflects how machine learning models rely on diverse datasets to learn patterns.
+
+---
+
+### **2. Machine Learning Concepts Connected to Vaccines**
+Your report compared vaccine development to ML workflows:
+- Continuous testing = iterative model training  
+- Trial and error = tuning and improving algorithms  
+- Detecting tumor cells = classification problem  
+- Deep learning required to understand biological responses  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+### **3. Russia vs. USA Vaccine Approach**
+You highlighted several differences:
+- Russia plans to offer the mRNA cancer vaccine **for free**  
+- The U.S. faces challenges such as:
+  - Public distrust (similar to COVID-19 vaccine hesitancy)  
+  - Transportation and supply-chain risks  
+  - Risk of stolen or fake vaccines  
+  - Uneven medical resources across states  
+:contentReference[oaicite:4]{index=4}
+
+---
 
 ## 🧠 Skills Demonstrated
-- Data cleaning and preprocessing  
-- Visual storytelling through charts and graphs  
-- Interpreting statistical patterns  
-- Understanding dataset structure for ML modeling  
+- Connecting real-world medical tech to ML concepts  
+- Understanding of datasets, training, and model behavior  
+- Critical thinking about global healthcare challenges  
+- Clear written communication  
 
-## 🛠 Tools Used
-- Google Colab  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+---
+
+## 📄 Assignment File
 
 ## 📄 File Link
 [Open Google Colab EDA Assignment]( https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/Assignments/Google%20Collab%20EDA.docx
