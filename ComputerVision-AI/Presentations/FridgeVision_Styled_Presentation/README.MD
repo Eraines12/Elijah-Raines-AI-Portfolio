@@ -105,4 +105,4 @@ FridgeVision_Complete_Presentatation
 
 📁 Files
 
-FridgeVision_Complete_Presentation.pptx – Final project slides
+FridgeVision_Complete_Presentation.pptx – Final project slides https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/FridgeVision_Styled_Presentation/FridgeVision_Complete_Presentation.pptx
