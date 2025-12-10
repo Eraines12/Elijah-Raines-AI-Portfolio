@@ -25,4 +25,4 @@ Overfitting happens when a model memorizes the training data.
 
 Files
 
-L03_A_ElijahRaines_ITAI_1378.ipynb – Main lab notebook.
+L03_A_ElijahRaines_ITAI_1378.ipynb – Main lab notebook. https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L03%20Using%20Classic%20ML%20in%20Computer%20Vision/L03_A_ElijahRaines_ITAI_1378%20(3).ipynb
