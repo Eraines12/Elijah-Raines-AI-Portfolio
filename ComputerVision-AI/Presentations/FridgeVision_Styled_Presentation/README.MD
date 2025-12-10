@@ -22,6 +22,7 @@ Includes train/val/test splits
 
 We converted the dataset into YOLO format for training
 
+---
 
 FridgeVision_Complete_Presentat…
 
@@ -39,6 +40,7 @@ Trained YOLOv8 using the ultralytics library
 
 Evaluated detection results on fridge images
 
+---
 
 FridgeVision_Complete_Presentat…
 
@@ -51,6 +53,8 @@ Components: Backbone, Neck, Head
 Outputs: Bounding boxes, class names, confidence
 
 Learned all 81 grocery categories
+
+---
 
 
 FridgeVision_Complete_Presentat…
@@ -65,6 +69,8 @@ Items appear with bounding boxes + labels
 
 System logs them for inventory tracking
 
+---
+
 
 FridgeVision_Complete_Presentat…
 
@@ -77,6 +83,8 @@ Class imbalance (some items appear way more than others)
 Bounding boxes in the dataset were low-quality, requiring adjustments
 
 Limited computing power in Google Colab
+
+---
 
 
 FridgeVision_Complete_Presentat…
@@ -91,6 +99,7 @@ Add data augmentation to improve accuracy
 
 Integrate OCR to detect expiration dates
 
+---
 
 FridgeVision_Complete_Presentatation
 
