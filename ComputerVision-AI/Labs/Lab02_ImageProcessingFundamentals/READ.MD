@@ -1,1 +1,26 @@
+# Lab 02 – Image Processing Fundamentals
 
+## Overview
+This lab introduced the basics of how computers process and understand images. I learned how images are represented as numerical arrays and how different operations can change the way an image looks.
+
+## What I Did
+- Explored how pixel values and RGB channels represent an image.
+- Applied simple image transformations such as resizing, rotating, and flipping.
+- Used filters to highlight edges and textures.
+- Viewed histograms to understand brightness and contrast in images.
+- Observed how small changes in pixel values affect the final image.
+
+## What I Learned
+- Images are stored as matrices of numbers, not pictures.
+- Filters and transformations are math operations applied to pixel groups.
+- Histograms show the distribution of pixel intensity.
+- Each image channel (R, G, B) contributes differently to the final color.
+- Image processing is the foundation of computer vision and AI models.
+
+## Challenges
+- Some filters produced unexpected results and took time to understand.
+- Understanding how pixel math creates visual effects was tricky at first.
+- Keeping track of image shape and channels required attention.
+
+## Files
+**Lab Notebook:** [L02_Raines_Elijah_L02 Image Processing Fundamentals.ipynb](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab02_ImageProcessingFundamentals/L02_Raines_Elijah_L02%20Image_Processing_Fundamentals.ipynb)
