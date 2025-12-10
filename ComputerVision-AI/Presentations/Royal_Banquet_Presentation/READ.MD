@@ -66,7 +66,7 @@ Our goal was to show how each format serves a different purpose—just like diff
 
 ## 🗂️ Files Included  
 - **Royal_Banquet_Presentation.pptx** – Our full project presentation.  
-
+https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/Royal_Banquet_Presentation/Royal_Banquet_Presentation.pptx
 
 ---
 
