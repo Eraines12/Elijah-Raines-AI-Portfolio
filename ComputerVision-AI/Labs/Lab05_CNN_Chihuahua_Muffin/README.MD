@@ -28,4 +28,4 @@ CNNs are used in real-world applications like healthcare, security, and self-dri
 
 📂 Files
 
-L05_ElijahRaines_ITAI_1378.ipynb – Lab notebook.
+L05_ElijahRaines_ITAI_1378.ipynb – Lab notebook. https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb
