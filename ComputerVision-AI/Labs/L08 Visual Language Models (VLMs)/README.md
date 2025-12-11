@@ -97,7 +97,9 @@ Interpreting VLM outputs and evaluating model behavior
 📁 Files in This Lab
 
 This README refers to the notebook:
-👉 Lab_08_2025_VLM_Lab_Exercise.ipynb  
+👉 Lab_08_2025_VLM_Lab_Exercise.ipynb
+
+https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L08%20Visual%20Language%20Models%20(VLMs)/Lab_08_Raines_Elijah_ITAI1378%20(1).ipynb
 
 
 
