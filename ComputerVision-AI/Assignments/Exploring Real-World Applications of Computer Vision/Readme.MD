@@ -52,4 +52,4 @@ Uncertainty about performance on complex cases (e.g., cancer, heart surgery)
 
 📂 Files
 
-L01_Elijah_Raines_ITAI1378.docx – Lab write-up
+L01_Elijah_Raines_ITAI1378.docx – https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Assignments/Exploring%20Real-World%20Applications%20of%20Computer%20Vision/_L01_Elijah_Raines_ITAI1378%20(1).docx 
