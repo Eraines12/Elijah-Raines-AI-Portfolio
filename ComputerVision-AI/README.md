@@ -48,7 +48,7 @@ Each lab includes:
 ## 🎨 Presentations
 
 ### **FridgeVision – Smart Inventory Detection**
-[Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/FridgeVision_Styled_Presentation%20(1).pptx)
+[Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/FridgeVision_Styled_Presentation/FridgeVision_Complete_Presentation.pptx)
 
 ### **Royal Banquet – Image Format Explanation**
 [Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/Royal_Banquet_Presentation.pptx)
