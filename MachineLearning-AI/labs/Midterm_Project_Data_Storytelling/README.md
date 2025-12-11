@@ -62,7 +62,7 @@ These visual patterns formed the core “story” of how survival differed acros
 ## 📄 Notebook
 Upload your notebook to GitHub, then add the link here:
 
-**Notebook:** [Midterm Project Notebook](PUT-LINK-HERE)
+**Notebook:** [Midterm Project Notebook](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/labs/Midterm_Project_Data_Storytelling/Midterm_Project_Data_Storytelling.ipynb)
 
 ---
 
