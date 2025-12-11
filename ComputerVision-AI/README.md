@@ -51,7 +51,7 @@ Each lab includes:
 [Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/FridgeVision_Styled_Presentation/FridgeVision_Complete_Presentation.pptx)
 
 ### **Royal Banquet – Image Format Explanation**
-[Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/Royal_Banquet_Presentation.pptx)
+[Open Presentation](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Presentations/Royal_Banquet_Presentation/Royal_Banquet_Presentation.pptx)
 
 
 ---
