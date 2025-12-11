@@ -59,4 +59,4 @@ Higher IoU thresholds make evaluation stricter and reduce true positives.
 
 📂 Files
 
-Lab6VOC2007__Object_Detection_transfer_learning.ipynb – 
+Lab6VOC2007__Object_Detection_transfer_learning.ipynb – https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb
