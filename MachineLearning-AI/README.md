@@ -9,42 +9,26 @@ Throughout this course, I gained hands-on experience working with real datasets,
 ## 📁 Labs 
 
 ### **Lab 01 – Machine Learning Foundations**
-*(Add link once uploaded)*  
-[Open Lab 01](URL-HERE)
-
-### **Lab 02 – Exploratory Data Analysis (EDA)**
-*(Laptop Price Dataset)*  
-[Open Lab 02](URL-HERE)
+[Open Lab 01](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/labs/Lab01_ML_Workflow_TypesOfLearning/Module_01_Lab_Exercise.ipynb)
 
 ### **Lab 03 – Full ML Workflow: Wine Dataset Classification**  
 - Trained Logistic Regression & Decision Tree models  
 - Evaluated accuracy, precision, recall, F1-score  
 - Analyzed confusion matrices  
-[Open Lab 03](URL-HERE)
+[Open Lab 03](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/labs/Lab02_Full_ML_Workflow/Lab02_Full_ML_Workflow.ipynb)
 
-### **Lab 04+ (Optional Additional ML Labs)**  
-(Add more here if your course has more labs)
+ **MidTerm - Project Story Data Telling**
+[Open Lab 01](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/labs/Midterm_Project_Data_Storytelling/Midterm_Project_Data_Storytelling.ipynb)
 
 ---
 
 ## 📝 Assignments (Add Your Clickable Links Here)
 
-### **L00 – Tools & Colab Practice**
-[Open Assignment L00](URL-HERE)
-
-### **L01 – Exploring Real-World Applications of Machine Learning**
-[Open Assignment L01](URL-HERE)
-
-### **L03a – Machine Learning Concepts & Written Analysis**
-[Open Assignment L03a](URL-HERE)
-
 ### **EDA: Laptop Pricing Analysis Report**
-[Open EDA Report](URL-HERE)
+[Open EDA Report](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/Assignments/GoogleColabEDA/Google%20Collab%20EDA.docx)
 
 ### **Cancer Vaccine Analysis Report**
-[Open Vaccine Report](URL-HERE)
-
-(Add any additional assignments below)
+[Open Vaccine Report](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/MachineLearning-AI/Assignments/CancerVaccineReport/Cancer%20Vaccine%20Report%20.docx)
 
 ---
 
