@@ -1,4 +1,4 @@
-Lab 09: Object Detection with Pascal VOC 2007 (SSD MobileNet V2)
+Lab 06: Object Detection with Pascal VOC 2007 (SSD MobileNet V2)
 📌 Overview
 
 In this lab, I learned how to perform object detection, which goes beyond classification by identifying what is in an image and where it is located using bounding boxes.
@@ -7,7 +7,7 @@ We used the Pascal VOC 2007 dataset and a pre-trained SSD MobileNet V2 model fro
 -----
 
 
-Lab9VOC2007__Dataset_student_No…
+Lab6VOC2007__Dataset_student_No…
 
 🗂 What I Did
 
@@ -28,7 +28,7 @@ Tested precision on a validation subset.
 -----
 
 
-Lab9VOC2007__Dataset_student_No…
+Lab6VOC2007__Dataset_student_No…
 
 📚 What I Learned
 
@@ -45,7 +45,7 @@ Visualization helps understand which object types the model detects well and whe
 ------
 
 
-Lab9VOC2007__Dataset_student_No…
+Lab6VOC2007__Dataset_student_No…
 
 🧠 Key Takeaways
 
@@ -59,4 +59,4 @@ Higher IoU thresholds make evaluation stricter and reduce true positives.
 
 📂 Files
 
-Lab9VOC2007__Object_Detection_transfer_learning.ipynb – 
+Lab6VOC2007__Object_Detection_transfer_learning.ipynb – 
