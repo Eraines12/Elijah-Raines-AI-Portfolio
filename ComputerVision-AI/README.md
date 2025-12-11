@@ -39,9 +39,6 @@ Each lab includes:
 ### **L01 – Exploring Real-World Applications of Computer Vision**
 [Open Assignment L01](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Assignments/_L01_Elijah_Raines_ITAI1378%20(1).docx)
 
-### **L03a – Computer Vision Concepts & Analysis**
-[Open Assignment L03a](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Assignments/L03a_Elijah_Raines_ITAI1378%20(2).docx)
-
 
 ---
 
