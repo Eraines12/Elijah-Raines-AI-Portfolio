@@ -15,7 +15,11 @@ Path B: BLIP / BLIP-2 (heavier models, image captioning + VQA)
 
 I worked through model loading, running experiments, observing results, and answering reflection questions.
 
+-----------
+
 🖼️ What I Did
+
+-----=
 ✅ 1. Environment Setup
 
 Installed PyTorch, Transformers, and supporting libraries.
@@ -58,6 +62,8 @@ Reviewed training loops, contrastive loss, and evaluation metrics
 
 Completed reflections on data quality and model risks
 
+---------
+
 💡 Key Things I Learned
 
 CLIP is great for matching text and images (classification + search).
@@ -70,6 +76,8 @@ Data quality is extremely important when fine-tuning.
 
 VLMs can hallucinate or give incorrect details if prompts are unclear.
 
+-------
+
 🎯 Skills Gained
 
 Working with HuggingFace VLM models
@@ -81,6 +89,10 @@ Running inference for classification, retrieval, captioning, and VQA
 Thinking critically about model limitations
 
 Interpreting VLM outputs and evaluating model behavior
+
+
+-------
+
 
 📁 Files in This Lab
 
