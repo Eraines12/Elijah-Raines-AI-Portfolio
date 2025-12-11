@@ -1,0 +1,10 @@
+CLIP – Retrieval & Model Stats
+================================
+Query: people playing sports
+Retrieved indices: [np.int64(0), np.int64(5), np.int64(2), np.int64(7), np.int64(9)]
+Assumed relevant indices: [2, 5, 7]
+Recall@3: 0.667
+Recall@5: 1.000
+
+Total parameters: 151,277,313
+Trainable parameters: 151,277,313

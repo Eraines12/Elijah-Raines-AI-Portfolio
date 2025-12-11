@@ -1,0 +1,7 @@
+RANDOM FOREST RESULTS
+=======================
+HOG Train Acc: None
+HOG Val Acc:   None
+
+LBP Train Acc: None
+LBP Val Acc:   None

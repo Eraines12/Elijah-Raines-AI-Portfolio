@@ -1,0 +1,27 @@
+BLIP Image Captions
+====================
+
+Image 0:
+  Generated: a group of people
+  Actual:    A child holding a flowered umbrella and petting a yak.
+
+Image 1:
+  Generated: a kitchen with a sink and a stove
+  Actual:    A narrow kitchen filled with appliances and cooking utensils.
+
+Image 2:
+  Generated: a young girl holding a cat
+  Actual:    A little girl holding a kitten next to a blue fence.
+
+Image 3:
+  Generated: a bathroom with a toilet and a green wall
+  Actual:    A toilet sitting in a bathroom next to a sink.
+
+Image 4:
+  Generated: a kitchen with a sink and a sink
+  Actual:    There are two sinks next to two mirrors.
+
+Image 5:
+  Generated: a woman riding a bike down a street
+  Actual:    A woman rides a bicycle on a road next to the median.
+

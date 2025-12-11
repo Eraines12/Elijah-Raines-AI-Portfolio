@@ -1,0 +1,18 @@
+BLIP VQA – Questions & Answers
+================================
+
+Q: What is in the image?
+A: girl holding cat
+
+Q: What color is the main object?
+A: green
+
+Q: Is this indoors or outdoors?
+A: outdoors
+
+Q: How many people are in the image?
+A: one
+
+Q: What is the person doing?
+A: holding kitten
+
