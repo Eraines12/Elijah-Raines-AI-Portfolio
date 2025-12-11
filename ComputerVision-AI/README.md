@@ -15,7 +15,7 @@ Each lab includes:
 ## 📁 Computer Vision Labs
 
 ### Lab 02 – Intro to Image Processing  
-[Open Lab 02](.https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/tree/main/ComputerVision-AI/Labs/Lab02_ImageProcessingFundamentals)
+[Open Lab 02](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/tree/main/ComputerVision-AI/Labs/Lab02_ImageProcessingFundamentals)
 
 ### Lab 03 – Image Filtering & Convolution  
 [Open Lab 03](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L03%20Using%20Classic%20ML%20in%20Computer%20Vision/L03_A_ElijahRaines_ITAI_1378%20(3).ipynb)
