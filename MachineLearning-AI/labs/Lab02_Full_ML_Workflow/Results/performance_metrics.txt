@@ -1,0 +1,11 @@
+Titanic Model Performance Metrics
+=================================
+
+Accuracy:  0.8268
+Precision: 0.7432
+Recall:    0.7432
+F1 Score:  0.7432
+
+Confusion Matrix (rows = true, cols = predicted):
+[[86 19]
+ [19 55]]

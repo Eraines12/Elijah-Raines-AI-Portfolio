@@ -1,0 +1,23 @@
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+     class_0       1.00      1.00      1.00        12
+     class_1       0.81      0.93      0.87        14
+     class_2       0.88      0.70      0.78        10
+
+    accuracy                           0.89        36
+   macro avg       0.90      0.88      0.88        36
+weighted avg       0.89      0.89      0.89        36
+
+=== Decision Tree ===
+              precision    recall  f1-score   support
+
+     class_0       0.86      1.00      0.92        12
+     class_1       0.91      0.71      0.80        14
+     class_2       0.73      0.80      0.76        10
+
+    accuracy                           0.83        36
+   macro avg       0.83      0.84      0.83        36
+weighted avg       0.84      0.83      0.83        36
+
+BEST MODEL: Logistic Regression

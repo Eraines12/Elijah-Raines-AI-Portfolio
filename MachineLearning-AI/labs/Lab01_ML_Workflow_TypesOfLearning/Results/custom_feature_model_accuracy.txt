@@ -1,0 +1,3 @@
+Custom Features: ['magnesium', 'malic_acid', 'alcohol']
+Accuracy: 0.8056
+Original Logistic Regression Accuracy: 0.8889

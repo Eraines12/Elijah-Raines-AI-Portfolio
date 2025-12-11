@@ -1,0 +1,18 @@
+Midterm Project – Model Performance
+===================================
+
+Baseline Model: Logistic Regression
+  Accuracy:  0.8101
+  Precision: 0.8030
+  Recall:    0.7162
+  F1 Score:  0.7571
+
+My Model:
+  Accuracy:  0.8101
+  Precision: 0.7857
+  Recall:    0.7432
+  F1 Score:  0.7639
+
+Confusion Matrix for My Model:
+[[90 15]
+ [19 55]]
