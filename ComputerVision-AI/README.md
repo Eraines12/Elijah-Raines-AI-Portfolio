@@ -21,7 +21,7 @@ Each lab includes:
 [Open Lab 03](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L03%20Using%20Classic%20ML%20in%20Computer%20Vision/L03_A_ElijahRaines_ITAI_1378%20(3).ipynb)
 
 ### Lab 04 – Chihuahua or Muffin  
-[Open Lab 04](.https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L04%20Chihuahua%20or%20Muffin/workshop_1_(1).ipynb)
+[Open Lab 04](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/L04%20Chihuahua%20or%20Muffin/workshop_1_(1).ipynb)
 
 ### Lab 05 – CNN Chihuahua vs Muffin  
 [Open Lab 05](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb)
