@@ -4,6 +4,8 @@ Lab 09: Object Detection with Pascal VOC 2007 (SSD MobileNet V2)
 In this lab, I learned how to perform object detection, which goes beyond classification by identifying what is in an image and where it is located using bounding boxes.
 We used the Pascal VOC 2007 dataset and a pre-trained SSD MobileNet V2 model from TensorFlow Hub.
 
+-----
+
 
 Lab9VOC2007__Dataset_student_No…
 
@@ -23,6 +25,8 @@ Implemented IoU (Intersection over Union) to evaluate bounding box accuracy.
 
 Tested precision on a validation subset.
 
+-----
+
 
 Lab9VOC2007__Dataset_student_No…
 
@@ -37,6 +41,8 @@ IoU helps measure how close predicted boxes are to the ground truth.
 Using only 10% of the dataset leads to limited accuracy, as shown by low precision.
 
 Visualization helps understand which object types the model detects well and where it struggles.
+
+------
 
 
 Lab9VOC2007__Dataset_student_No…
