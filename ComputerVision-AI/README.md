@@ -27,7 +27,7 @@ Each lab includes:
 [Open Lab 05](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab05_CNN_Chihuahua_Muffin/Lab05_CNN_Chihuahua_Muffin.ipynb.ipynb)
 
 ### Lab 06 – VOC2007 Object Detection  
-[Open Lab 06](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb)
+[Open Lab 06](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_/Lab6VOC2007__Dataset_student_Notebook_LAB_Object_Detection_transfer_learning_(1)%20(1)%20(1).ipynb)
 
 ### Lab 08 – CNN Classification  
 [Open Lab 08](https://github.com/Eraines12/Elijah-Raines-AI-Portfolio/blob/main/ComputerVision-AI/Labs/Lab_08_Raines_Elijah_ITAI1378%20(1).ipynb)
